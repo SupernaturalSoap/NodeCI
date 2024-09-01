@@ -1,7 +1,7 @@
 language: node_js
 node_js: 
-  - "18.20.4"
-dist: bionic
+  - "8"
+dist: trusty
 services:
   - mongodb
   - redis-server
